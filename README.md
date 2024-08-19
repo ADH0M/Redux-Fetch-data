@@ -1,4 +1,4 @@
-This code demonstrates how to use Redux, Redux Thunk, and Axios to handle asynchronous API requests in a Redux store.
+ use Redux, Redux Thunk, and Axios to handle asynchronous API requests in a Redux store.
 
 Redux Setup:
 
